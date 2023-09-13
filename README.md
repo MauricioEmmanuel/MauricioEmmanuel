@@ -1,3 +1,3 @@
 - 👋 Hola, soy Desarrollador Frontend y me interesa el mundillo del desarrollo con JavaScript
-- 📫 Enviame un correo a maumesmerin@gmail.com, o contáctame al +52-7151130005
+- 📫 Enviame un correo a maumesmerin@gmail.com, o contáctame al +52-7151125691
 - 📖 También me encuentro especializando en Java y backend
