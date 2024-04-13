@@ -1,3 +1,2 @@
 - 👋 Desarrollador Web
-- 📫 Enviame un correo a maumesmerin@gmail.com, o contáctame al +52-7151125691.
 - 📖 Aprendiendo Typescript - Python
